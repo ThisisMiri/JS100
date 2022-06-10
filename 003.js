@@ -7,4 +7,4 @@ console.log(typeof arr);
 // (1)  undefined : 기본형
 // (2)  string : 기본형
 // (3)  number : 기본형
-// (4)  object <- 정답
+// (4)  object <- 정답!
