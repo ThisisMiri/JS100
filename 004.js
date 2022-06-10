@@ -5,6 +5,8 @@
 // 1)  입력 : a =1,   출력 : number
 
 // 2)  입력 : a = 2.22,   출력 : boolean
+// => 정답
+// boolean은 false와 true 두 가지.
 
 // 3)  입력 : a = 'p',   출력 : string
 
