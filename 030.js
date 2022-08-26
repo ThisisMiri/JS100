@@ -9,3 +9,9 @@ apple
 
 출력
 4`;
+
+답 :
+const data = prompt('문자열을 입력하세요');
+const word = prompt('찾을 단어를 입력하세요');
+
+console.log(data.indexOf(word)); 
